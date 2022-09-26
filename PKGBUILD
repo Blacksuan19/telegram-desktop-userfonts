@@ -21,7 +21,7 @@ optdepends=('webkit2gtk: embedded browser features'
 source=("https://github.com/telegramdesktop/tdesktop/releases/download/v${pkgver}/tdesktop-${pkgver}-full.tar.gz"
         fix-tgcalls-cstdint.patch
        )
-sha512sums=('d58ad4b3eaf72b4885612ecca0b29057a1f0e7efc7a539c4ed7cdfa9f6b8dd19e378f1e4b9f28a644d8c8559a5310a168e0b949aafac6902bd21155795db2574'
+sha512sums=('47d1e618a03f3b870b5aff81bc71793bcdd3fec91bb1263a65e0a935867ade4bc3de29f9f01ddce3837e7239e17a88caba6afc2b49b3181dd8cd6eeca597d6f2'
             'ba24a2f1524010b4891764aacee2e27a5ebae44cf7626ab2aaf9e6c48b0f8088bf920886ceeb497b3c463fa0c3b885dd63db273d4c29cab6c96c8193c0c5c888')
 
 prepare() {
