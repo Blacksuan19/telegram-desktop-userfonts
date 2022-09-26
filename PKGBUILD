@@ -3,7 +3,7 @@
 # Maintainer: Sven-Hendrik Haase <svenstaro@archlinux.org>
 # Contributor: hexchain <i@hexchain.org>
 pkgname=telegram-desktop-userfonts
-pkgver=4.1.0
+pkgver=4.2.0
 pkgrel=1
 conflicts=('telegram-desktop')
 provides=('telegram-desktop')
